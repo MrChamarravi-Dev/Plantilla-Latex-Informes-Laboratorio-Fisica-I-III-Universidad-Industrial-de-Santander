@@ -7,8 +7,6 @@
 
 <br><br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/LaTeX_cover.svg" alt="LaTeX Logo" width="120">
-
 <br><br>
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
