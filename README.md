@@ -1,4 +1,3 @@
-````markdown
 # 🔬 Plantilla LaTeX para Informes de Laboratorio de Física I, II y III - UIS
 
 <div align="center">
